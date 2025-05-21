@@ -19,6 +19,7 @@ Clone the Repository:
    ```bash
    git clone https://github.com/satvikaj/snake-game.git
    cd snake-game
+
 Run the Game:
 
 python snake_game.py
