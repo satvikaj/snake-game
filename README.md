@@ -24,7 +24,8 @@ Run the Game:
 python snake_game.py
 (Make sure the filename is snake_game.py. Rename it if needed.)
 
-*Controls*
+**Controls**
+
 Use the arrow keys to control the snake's direction:
 
 ⬅ Left Arrow - Move Left
@@ -35,7 +36,7 @@ Use the arrow keys to control the snake's direction:
 
 ⬇ Down Arrow - Move Down
 
-*Game Rules*
+**Game Rules**
 
 The snake moves continuously in the current direction.
 
