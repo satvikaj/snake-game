@@ -15,7 +15,7 @@ This is a basic implementation of the classic Snake Game using Python's built-in
 
 ## How to Run
 
-Clone the Repository:
+1. Clone the Repository:
    ```bash
    git clone https://github.com/satvikaj/snake-game.git
    cd snake-game
