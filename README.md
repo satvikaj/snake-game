@@ -15,10 +15,10 @@ This is a basic implementation of the classic Snake Game using Python's built-in
 
 ## How to Run
 
-1. Clone the Repository or Download the Files:
+Clone the Repository:
    ```bash
-   git clone https://github.com/your-username/snake-game-tkinter.git
-   cd snake-game-tkinter
+   git clone https://github.com/satvikaj/snake-game.git
+   cd snake-game
 Run the Game:
 
 python snake_game.py
